@@ -1,11 +1,135 @@
-.header {
-    display: flex;
-    justify-content: space-between;
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #7581a1;
+  font-size: 16px;
+  line-height: 26px;
 }
-.list {
-    display: flex;
-    justify-content: space-between;
+a {
+  text-decoration: none;
 }
-.title {
-    color: rgb(40, 29, 104);
+h1 {
+  font-size: 80px;
+  font-weight: 600;
+  color: #192b59;
+}
+.nav {
+  font-size: 12px;
+  color: #6e7ea9;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.btn-free {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  background-color: #1085e4;
+}
+.grid h2 {
+  color: #192b59;
+  font-size: 40px;
+  font-weight: 400;
+}
+.grid h2 span {
+  color: #1085e4;
+  font-size: 14px;
+  display: block;
+}
+.grid-item h3 {
+  color: #192b59;
+  font-size: 20px;
+  font-weight: 600;
+}
+.grid-item a {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.page-name {
+    color: #1085e4;
+    font-size: 14px;
+}
+.page-name span {
+    color: #192b59;
+    font-size: 16px;
+}
+.page-subscribe h2 span {
+    color: #00bffe;
+    font-size: 14px;
+    font-weight: 800;
+    display: block;
+
+}
+.page-subscribe h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+    background-color: #0c2694;
+}
+.page-subscribe p {
+   color: #dfe8ff;
+   font-size: 18px; 
+   background-color: #0c2694;
+}
+.page-subscribe input {
+    color: #b1c3ee;
+    font-size: 14px;
+    background-color: #0c2694
+}
+.page-subscribe button {
+    color: #fff;   
+    font-size: 14px;
+    background-color: #0c2694
+}
+.page-software h2 {
+    color: #192b59;
+    font-size: 50px;
+}
+.page-software dt {
+    color: #5a6789;
+    font-size: 16px;
+}
+.page-stat h2 span {
+    color: #1085e4;
+    font-size: 16px;
+    display: block;
+}
+.page-stat h2 {
+    color: #192b59;
+    font-size: 50px;
+}
+.page-stat li span {
+    color: #bacbdc;
+    font-size: 60px;
+}
+.page-stat li {
+    color: #1085e4;
+    font-size: 12px;
+
+}
+.page-app h2 {
+    color: #192b59;
+    font-size: 50px;
+}
+.page-app-now {
+    color: #c4d2dd;
+    font-size: 16px;
+}
+.page-analytics h2 {
+    color: #192b59;
+    font-size: 50px;
+}
+.page-back h2 {
+    color: #192b59;
+    font-size: 50px;
+}
+.page-screen h2 span {
+    color: #1085e4;
+    font-size: 16px;
+    display: block;
+}
+.page-screen h2 {
+    color: #192b59;
+    font-size: 40px;
 }
